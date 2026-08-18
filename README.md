@@ -4,6 +4,6 @@ Prototype d'un distributeur automatisé connecté
 
 Carte casier :  
 
-                en mode slave, connectée à la carte master par un iot rf de type HC12
+                Principe : en mode slave, le casier est connecté à la carte master par un iot rf de type HC12
 
-                le processeur est un un PIC 18F26k22 de chez microchip, la programmation se fera en C sous MPLAB
+                Le processeur est un un PIC 18F26k22 de chez microchip, la programmation se fera en C sous MPLAB
